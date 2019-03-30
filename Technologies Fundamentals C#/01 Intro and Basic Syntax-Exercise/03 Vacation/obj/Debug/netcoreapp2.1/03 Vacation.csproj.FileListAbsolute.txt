@@ -1,0 +1,11 @@
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\bin\Debug\netcoreapp2.1\03 Vacation.deps.json
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\bin\Debug\netcoreapp2.1\03 Vacation.runtimeconfig.json
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\bin\Debug\netcoreapp2.1\03 Vacation.runtimeconfig.dev.json
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\bin\Debug\netcoreapp2.1\03 Vacation.dll
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\bin\Debug\netcoreapp2.1\03 Vacation.pdb
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\obj\Debug\netcoreapp2.1\03 Vacation.csprojAssemblyReference.cache
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\obj\Debug\netcoreapp2.1\03 Vacation.csproj.CoreCompileInputs.cache
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\obj\Debug\netcoreapp2.1\03 Vacation.AssemblyInfoInputs.cache
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\obj\Debug\netcoreapp2.1\03 Vacation.AssemblyInfo.cs
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\obj\Debug\netcoreapp2.1\03 Vacation.dll
+C:\Users\MiLLenaRy\OneDrive\All SoftUni files\SoftUni PC Andy\GitHub Link\Software-University\01 Exercise Intro and Basic Syntax\03 Vacation\obj\Debug\netcoreapp2.1\03 Vacation.pdb
