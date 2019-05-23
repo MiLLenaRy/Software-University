@@ -1,6 +1,7 @@
 ># Exercises: Multidimensional Arrays
 
 ><p><H1>1.	Diagonal Difference</>
+
 * Write a program that finds the difference between the sums of the square matrix diagonals (absolute value).
 
 >  <b>Input
@@ -10,6 +11,7 @@
 *	Print the absolute difference between the sums of the primary and the secondary diagonal
 
 ><p><H1>2.	2x2 Squares in Matrix</>
+
  * Find the count of 2 x 2 squares of equal chars in a matrix.
 >  <b>Input
 *	On the first line, you are given the integers rows and cols – the matrix’s dimensions
@@ -19,7 +21,8 @@
 
 
 ><p><H1>3.	Maximal Sum</>
->Write a program that reads a rectangular integer matrix of size N x M and finds in it the square 3 x 3 that has maximal sum of its elements.</>
+
+* Write a program that reads a rectangular integer matrix of size N x M and finds in it the square 3 x 3 that has maximal sum of its elements.</>
 >  <b>Input
 *	On the first line, you will receive the rows N and columns M. On the next N lines you will receive each row with its columns
 ><b>Output
@@ -28,13 +31,14 @@
 
 ><p><H1>4.	Matrix shuffling</>
 
-> Write a program which reads a string matrix from the console and performs certain operations with its elements. UserInput is provided in a similar way like in the problems above – first you read the dimensions and then the data. 
+* Write a program which reads a string matrix from the console and performs certain operations with its elements. UserInput is provided in a similar way like in the problems above – first you read the dimensions and then the data. 
 
 > Your program should then receive commands in format: "swap row1 col1 row2c col2" where row1, row2, col1, col2 are coordinates in the matrix. In order for a command to be valid, it should start with the "swap" keyword along with four valid coordinates (no more, no less). You should swap the values at the given coordinates (cell [row1, col1] with cell [row2, col2]) and print the matrix at each step (thus you'll be able to check if the operation was performed correctly). 
 
 >If the command is not valid (doesn't contain the keyword "swap", has fewer or more coordinates entered or the given coordinates do not exist), print "Invalid Input!" and move on to the next command. Your program should finish when the string "END" is entered.
 
 ><p><H1>5.	Snake Moves</>
+
 >You are walking in the park and you encounter a snake! You are terrified, and you start running zig-zag, so the snake starts following you. 
 
 >You have a task to visualize the snake’s path in a square form. A snake is represented by a string. The isle is a rectangular matrix of size NxM. A snake starts going down from the top-left corner and slithers its way down. The first cell is filled with the first symbol of the snake, the second cell is filled with the second symbol, etc. The snake is as long as it takes in order to fill the stairs completely – if you reach the end of the string representing the snake, start again at the beginning. After you fill the matrix with the snake’s path, you should print it.
@@ -54,7 +58,8 @@
 *	The snake will be a string with length in the range [1 … 20] and will not contain any whitespace characters
 	
 ><p><H1>6.	Bomb the Basement</>
->You are angry with your neighbor and you wish to get back on him for the constant noise complaints that he files against you. The most valuable things he has are stored in his basement. You have a plan – designing small bombs to bomb it. The basement is in the form of a square. It is full of cells with items. 
+
+* You are angry with your neighbor and you wish to get back on him for the constant noise complaints that he files against you. The most valuable things he has are stored in his basement. You have a plan – designing small bombs to bomb it. The basement is in the form of a square. It is full of cells with items. 
 
 >You will be given the dimensions of the basement. After that you will be given the coordinates of the cells that store the most valuable items – you should bomb them. When a bomb explodes it has an impact and it destroys all of the items in a certain radius, which will be given to you. The items should be represented by 0. You can check whether a cell is inside the blast radius using the Pythagorean Theorem. The bomb leaves the cells without an item. You should use the number 1 to represent that. The items above the exploded area start going up until they land on another symbol (meaning an item moves down a row as long as there is a -1 below). When the horror ends, print on the console the resulting basement, each row on a new line. You should check out the examples.
 
@@ -76,7 +81,8 @@
 
 
 ><p><H1>7.	 Knight Game</>
->Chess is the oldest game, but it is still popular these days. For this task we will use only one chess piece – the Knight. 
+
+* Chess is the oldest game, but it is still popular these days. For this task we will use only one chess piece – the Knight. 
 
 >The knight moves to the nearest square but not on the same row, column, or diagonal. (This can be thought of as moving two squares horizontally, then one square vertically, or moving one square horizontally then two squares vertically— i.e. in an "L" pattern.) 
 
@@ -100,7 +106,7 @@
 
 ><p><H1>8.	*Bombs</>
 
->You will be given a square matrix of integers, each integer separated by a single space, and each row on a new line. Then on the last line of Input you will receive indexes - coordinates to several cells separated by a single space, in the following format: row1,column1  row2,column2  row3,column3… 
+* You will be given a square matrix of integers, each integer separated by a single space, and each row on a new line. Then on the last line of Input you will receive indexes - coordinates to several cells separated by a single space, in the following format: row1,column1  row2,column2  row3,column3… 
 
 >On those cells there are bombs. You have to proceed every bomb, one by one in the order they were given. When a bomb explodes deals damage equal to its own integer value, to all the cells around it (in every direction and in all diagonals). One bomb can't explode more than once and after it does, its value becomes 0. When a cell’s value reaches 0 or below, it dies. Dead cells can't explode.
 
@@ -127,7 +133,7 @@
 
 ><p><H1>9.	*Miner</>
 
->We get as Input the size of the field in which our miner moves. The field is always a square. After that we will receive the commands which represent the directions in which the miner should move. The miner starts from position – ‘s’. The commands will be: left, right, up and down. If the miner has reached a side edge of the field and the next command indicates that he has to get out of the field, he must remain on his current possition and ignore the current command. The possible characters that may appear on the screen are:
+* We get as Input the size of the field in which our miner moves. The field is always a square. After that we will receive the commands which represent the directions in which the miner should move. The miner starts from position – ‘s’. The commands will be: left, right, up and down. If the miner has reached a side edge of the field and the next command indicates that he has to get out of the field, he must remain on his current possition and ignore the current command. The possible characters that may appear on the screen are:
 
 * ** – a regular position on the field.
 *	e – the end of the route. 
@@ -158,7 +164,8 @@ o	If there are no more commands and none of the above cases had happened, you ha
 
 
 ><p><H1>10.	*Radioactive Mutant Vampire Bunnies</>
->Browsing through GitHub, you come across an old JS Basics teamwork game. It is about very nasty bunnies that multiply extremely fast. There’s also a player that has to escape from their lair. You really like the game, so you decide to port it to C# because that’s your language of choice. The last thing that is left is the algorithm that decides if the player will escape the lair or not.
+
+* Browsing through GitHub, you come across an old JS Basics teamwork game. It is about very nasty bunnies that multiply extremely fast. There’s also a player that has to escape from their lair. You really like the game, so you decide to port it to C# because that’s your language of choice. The last thing that is left is the algorithm that decides if the player will escape the lair or not.
 
 >First, you will receive a line holding integers N and M, which represent the rows and columns in the lair. Then you receive N strings that can only consist of “.”, “B”, “P”. The bunnies are marked with “B”, the player is marked with “P”, and everything else is free space, marked with a dot “.”. They represent the initial state of the lair. There will be only one player. Then you will receive a string with commands such as LLRRUUDD – where each letter represents the next move of the player (Left, Right, Up, Down).
 
